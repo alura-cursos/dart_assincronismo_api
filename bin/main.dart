@@ -7,14 +7,20 @@ import 'dart:convert';
 StreamController<String> streamController = StreamController<String>();
 
 void main() {
+  StreamSubscription streamSubscription = streamController.stream.listen(
+    (String info) {
+      print(info);
+    },
+  );
+
   //requestData();
   //requestDataAsync();
-  sendDataAsync({
-    "id": "NEW001",
-    "name": "Flutter",
-    "lastName": "Dart",
-    "balance": 5000,
-  });
+  // sendDataAsync({
+  //   "id": "NEW001",
+  //   "name": "Flutter",
+  //   "lastName": "Dart",
+  //   "balance": 5000,
+  // });
 }
 
 requestData() {
