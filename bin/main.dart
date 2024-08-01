@@ -1,9 +1,12 @@
+import 'dart:async';
+
 import 'package:dart_assincronismo/api_key.dart';
 import 'package:http/http.dart';
 import 'dart:convert';
 
+StreamController<String> streamController = StreamController<String>();
+
 void main() {
-  // print("Olá, mundo!");
   //requestData();
   //requestDataAsync();
   sendDataAsync({
