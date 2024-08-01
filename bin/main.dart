@@ -4,7 +4,13 @@ import 'dart:convert';
 void main() {
   // print("Olá, mundo!");
   //requestData();
-  requestDataAsync();
+  //requestDataAsync();
+  sendDataAsync({
+    "id": "NEW001",
+    "name": "Flutter",
+    "lastName": "Dart",
+    "balance": 5000,
+  });
 }
 
 requestData() {
@@ -27,10 +33,16 @@ requestData() {
   print("Última coisa a acontecer na função.");
 }
 
-requestDataAsync() async {
+Future<List<dynamic>> requestDataAsync() async {
   String url =
       "https://gist.githubusercontent.com/ricarthlima/a0eb198cb7a70696c4031e7e577de0cd/raw/356ce2c39dfd58d3d2e948d1ad87ea828544f1db/accounts.json";
   Response response = await get(Uri.parse(url));
-  print(json.decode(response.body)[0]);
-  print("De fato, a última coisa a acontecer na função.");
+  return json.decode(response.body);
+}
+
+sendDataAsync(Map<String, dynamic> mapAccount) async {
+  List<dynamic> listAccounts = await requestDataAsync();
+  listAccounts.add(mapAccount);
+  String content = json.encode(listAccounts);
+  print(content);
 }
