@@ -30,10 +30,16 @@ class AccountService {
     return listAccounts;
   }
 
-  addAccount(Map<String, dynamic> mapAccount) async {
-    List<dynamic> listAccounts = await getAll();
-    listAccounts.add(mapAccount);
-    String content = json.encode(listAccounts);
+  addAccount(Account account) async {
+    List<Account> listAccounts = await getAll();
+    listAccounts.add(account);
+
+    List<Map<String, dynamic>> listContent = [];
+    for (Account account in listAccounts) {
+      listContent.add(account.toMap());
+    }
+
+    String content = json.encode(listContent);
 
     Response response = await post(
       Uri.parse(url),
@@ -51,10 +57,10 @@ class AccountService {
 
     if (response.statusCode.toString()[0] == "2") {
       _streamController.add(
-          "${DateTime.now()} | Requisição adição bem sucedida (${mapAccount["name"]}).");
+          "${DateTime.now()} | Requisição adição bem sucedida (${account.name}).");
     } else {
-      _streamController.add(
-          "${DateTime.now()} | Requisição falhou (${mapAccount["name"]}).");
+      _streamController
+          .add("${DateTime.now()} | Requisição falhou (${account.name}).");
     }
   }
 }
