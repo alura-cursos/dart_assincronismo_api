@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Bolo de Cenoura",
+        "preparation_time": "45 minutos",
+        "ingredients": [
+            "3 cenouras médias",
+            "4 ovos",
+            "1 xícara de óleo",
+            "2 xícaras de açúcar",
+            "2 e 1/2 xícaras de farinha de trigo",
+            "1 colher de sopa de fermento em pó"
+        ],
+        "instructions": "Bata no liquidificador as cenouras, os ovos e o óleo. Em uma tigela, misture o açúcar e a farinha. Adicione a mistura do liquidificador e mexa bem. Acrescente o fermento e misture novamente. Despeje em uma forma untada e asse em forno pré-aquecido a 180ºC por cerca de 40 minutos."
+    },
+    {
+        "name": "Feijoada",
+        "preparation_time": "2 horas",
+        "ingredients": [
+            "500g de feijão preto",
+            "200g de carne seca",
+            "150g de costelinha de porco",
+            "150g de linguiça calabresa",
+            "150g de paio",
+            "1 cebola grande",
+            "2 dentes de alho",
+            "Sal a gosto",
+            "Louro a gosto"
+        ],
+        "instructions": "Deixe o feijão de molho por 12 horas. Cozinhe o feijão em uma panela de pressão por 30 minutos. Em uma panela grande, frite as carnes até dourar. Adicione a cebola, o alho e refogue. Acrescente o feijão cozido, o sal e o louro, e cozinhe por mais 30 minutos em fogo baixo."
+    },
+    {
+        "name": "Lasanha de Carne",
+        "preparation_time": "1 hora",
+        "ingredients": [
+            "500g de massa para lasanha",
+            "500g de carne moída",
+            "1 cebola",
+            "2 dentes de alho",
+            "500ml de molho de tomate",
+            "300g de queijo muçarela",
+            "300g de presunto",
+            "Sal e pimenta a gosto"
+        ],
+        "instructions": "Refogue a cebola e o alho, adicione a carne moída e tempere com sal e pimenta. Cozinhe até dourar. Em uma forma, monte a lasanha alternando camadas de molho de tomate, massa, carne, presunto e queijo. Finalize com queijo. Asse em forno pré-aquecido a 180ºC por 40 minutos."
+    },
+    {
+        "name": "Panqueca de Frango",
+        "preparation_time": "30 minutos",
+        "ingredients": [
+            "1 xícara de farinha de trigo",
+            "1 xícara de leite",
+            "1 ovo",
+            "1 colher de sopa de óleo",
+            "1 pitada de sal",
+            "200g de frango desfiado",
+            "1 cebola",
+            "2 dentes de alho",
+            "Molho de tomate a gosto"
+        ],
+        "instructions": "Bata no liquidificador a farinha, o leite, o ovo, o óleo e o sal. Em uma frigideira, despeje pequenas porções da massa para formar as panquecas. Para o recheio, refogue a cebola e o alho, adicione o frango desfiado e o molho de tomate. Recheie as panquecas e sirva."
+    },
+    {
+        "name": "Salada de Quinoa",
+        "preparation_time": "20 minutos",
+        "ingredients": [
+            "1 xícara de quinoa",
+            "2 xícaras de água",
+            "1 pepino",
+            "1 tomate",
+            "1 cenoura ralada",
+            "Suco de 1 limão",
+            "Azeite de oliva a gosto",
+            "Sal e pimenta a gosto"
+        ],
+        "instructions": "Cozinhe a quinoa na água por 15 minutos ou até absorver toda a água. Deixe esfriar. Em uma tigela, misture a quinoa com o pepino, tomate e cenoura. Tempere com suco de limão, azeite, sal e pimenta. Misture bem e sirva."
+    },
+    {
+        "name": "Brigadeiro",
+        "preparation_time": "20 minutos",
+        "ingredients": [
+            "1 lata de leite condensado",
+            "2 colheres de sopa de cacau em pó",
+            "1 colher de sopa de manteiga",
+            "Chocolate granulado a gosto"
+        ],
+        "instructions": "Em uma panela, misture o leite condensado, o cacau e a manteiga. Cozinhe em fogo médio, mexendo sempre, até a mistura começar a desgrudar do fundo da panela. Deixe esfriar, faça bolinhas e passe no granulado."
+    },
+    {
+        "name": "Risoto de Cogumelos",
+        "preparation_time": "40 minutos",
+        "ingredients": [
+            "1 xícara de arroz arbóreo",
+            "200g de cogumelos variados",
+            "1 cebola",
+            "2 dentes de alho",
+            "1/2 xícara de vinho branco",
+            "1 litro de caldo de legumes",
+            "2 colheres de sopa de manteiga",
+            "Queijo parmesão ralado a gosto"
+        ],
+        "instructions": "Refogue a cebola e o alho na manteiga, adicione os cogumelos e cozinhe até dourar. Adicione o arroz e refogue por 2 minutos. Despeje o vinho branco e mexa até evaporar. Adicione o caldo aos poucos, mexendo sempre, até o arroz ficar cremoso. Finalize com queijo parmesão."
+    },
+    {
+        "name": "Torta de Maçã",
+        "preparation_time": "1 hora e 30 minutos",
+        "ingredients": [
+            "2 xícaras de farinha de trigo",
+            "1/2 xícara de açúcar",
+            "100g de manteiga",
+            "4 maçãs",
+            "1 colher de chá de canela",
+            "Suco de 1 limão",
+            "2 colheres de sopa de açúcar mascavo"
+        ],
+        "instructions": "Misture a farinha, o açúcar e a manteiga até formar uma massa. Forre uma forma com a massa e reserve. Corte as maçãs em fatias finas, misture com a canela, o suco de limão e o açúcar mascavo. Coloque as maçãs sobre a massa e asse em forno pré-aquecido a 180ºC por 1 hora."
+    },
+    {
+        "name": "Pizza Margherita",
+        "preparation_time": "1 hora",
+        "ingredients": [
+            "500g de farinha de trigo",
+            "300ml de água morna",
+            "10g de fermento biológico seco",
+            "1 colher de chá de sal",
+            "1 colher de chá de açúcar",
+            "200g de queijo muçarela",
+            "2 tomates",
+            "Manjericão fresco",
+            "Azeite de oliva a gosto"
+        ],
+        "instructions": "Misture a farinha, o fermento, o sal e o açúcar. Adicione a água morna e amasse até formar uma massa lisa. Deixe crescer por 1 hora. Abra a massa, espalhe o molho de tomate, cubra com queijo, tomates e manjericão. Asse em forno pré-aquecido a 250ºC por 15 minutos."
+    },
+    {
+        "name": "Pão de Queijo",
+        "preparation_time": "30 minutos",
+        "ingredients": [
+            "500g de polvilho doce",
+            "250ml de leite",
+            "100ml de óleo",
+            "2 ovos",
+            "200g de queijo parmesão ralado",
+            "Sal a gosto"
+        ],
+        "instructions": "Ferva o leite com o óleo e despeje sobre o polvilho. Misture bem e deixe esfriar. Adicione os ovos, o queijo ralado e o sal. Amasse até formar uma massa homogênea. Modele bolinhas e asse em forno pré-aquecido a 180ºC por 20 minutos."
+    }
+]

@@ -1,0 +1,79 @@
+{
+    "rules": {
+        "winnersRemains": true,
+        "winnerRemainsMax": 2,
+        "playersPerTeam": 4
+    },
+    "players": [
+        {
+            "name": "Ricarth",
+            "position": "ponteiro",
+            "skillRate": 2,
+            "roundsWaiting": 0,
+            "isResting": false
+        },
+        {
+            "name": "Matheus",
+            "position": "levantador",
+            "skillRate": 3,
+            "roundsWaiting": 0,
+            "isResting": false
+        },
+        {
+            "name": "Ana",
+            "position": "central",
+            "skillRate": 4,
+            "roundsWaiting": 0,
+            "isResting": false
+        },
+        {
+            "name": "Carlos",
+            "position": "oposto",
+            "skillRate": 3,
+            "roundsWaiting": 1,
+            "isResting": false
+        },
+        {
+            "name": "Julia",
+            "position": "ponteiro",
+            "skillRate": 5,
+            "roundsWaiting": 1,
+            "isResting": false
+        },
+        {
+            "name": "Fernando",
+            "position": "central",
+            "skillRate": 2,
+            "roundsWaiting": 2,
+            "isResting": true
+        },
+        {
+            "name": "Luiza",
+            "position": "levantador",
+            "skillRate": 3,
+            "roundsWaiting": 1,
+            "isResting": false
+        },
+        {
+            "name": "Pedro",
+            "position": "oposto",
+            "skillRate": 4,
+            "roundsWaiting": 0,
+            "isResting": false
+        },
+        {
+            "name": "Mariana",
+            "position": "ponteiro",
+            "skillRate": 3,
+            "roundsWaiting": 0,
+            "isResting": true
+        },
+        {
+            "name": "Gustavo",
+            "position": "central",
+            "skillRate": 5,
+            "roundsWaiting": 2,
+            "isResting": false
+        }
+    ]
+}

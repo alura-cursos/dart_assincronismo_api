@@ -1,0 +1,62 @@
+[
+    {
+        "title": "O Alquimista",
+        "author": "Paulo Coelho",
+        "year_of_publication": 1988,
+        "number_of_pages": 208
+    },
+    {
+        "title": "Dom Casmurro",
+        "author": "Machado de Assis",
+        "year_of_publication": 1899,
+        "number_of_pages": 256
+    },
+    {
+        "title": "A Hora da Estrela",
+        "author": "Clarice Lispector",
+        "year_of_publication": 1977,
+        "number_of_pages": 96
+    },
+    {
+        "title": "Capitães da Areia",
+        "author": "Jorge Amado",
+        "year_of_publication": 1937,
+        "number_of_pages": 280
+    },
+    {
+        "title": "Grande Sertão: Veredas",
+        "author": "João Guimarães Rosa",
+        "year_of_publication": 1956,
+        "number_of_pages": 608
+    },
+    {
+        "title": "Memórias Póstumas de Brás Cubas",
+        "author": "Machado de Assis",
+        "year_of_publication": 1881,
+        "number_of_pages": 160
+    },
+    {
+        "title": "Vidas Secas",
+        "author": "Graciliano Ramos",
+        "year_of_publication": 1938,
+        "number_of_pages": 176
+    },
+    {
+        "title": "O Guarani",
+        "author": "José de Alencar",
+        "year_of_publication": 1857,
+        "number_of_pages": 360
+    },
+    {
+        "title": "Iracema",
+        "author": "José de Alencar",
+        "year_of_publication": 1865,
+        "number_of_pages": 200
+    },
+    {
+        "title": "A Moreninha",
+        "author": "Joaquim Manuel de Macedo",
+        "year_of_publication": 1844,
+        "number_of_pages": 192
+    }
+]
